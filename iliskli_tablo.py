@@ -1,6 +1,6 @@
 import mysql.connector
 
-
+#hatalı yeni kayıt
 connection = mysql.connector.connect(
     host="localhost",
     user = "root",

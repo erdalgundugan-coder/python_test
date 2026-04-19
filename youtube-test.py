@@ -37,4 +37,4 @@ df['beğeni_oranı'] = oranal(df)
 print(df.sort_values('beğeni_oranı', ascending=False).head(50)[['title','beğeni_oranı']])
 
 
-#print(result)
+#print(result)GIT_TEST_123

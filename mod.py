@@ -16,7 +16,7 @@ def func(x):
     fonksiyon hakkında bilgi.
     '''
     print(f'x: {x}')
-
+#github test
 class Person:
     def speak(self):
         print('I am speaking..')

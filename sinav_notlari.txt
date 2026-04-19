@@ -1,0 +1,2 @@
+erdal gündoğan:40,50,60
+ali ali:20,30,40

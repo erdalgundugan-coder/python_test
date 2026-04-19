@@ -1,10 +1,16 @@
 import mysql.connector
+<<<<<<< HEAD
 
 #hatalı yeni kayıt
+=======
+#tetst v2
+
+>>>>>>> c95bac10d2963790b9914a7470c324fb84dd2f1f
 connection = mysql.connector.connect(
     host="localhost",
     user = "root",
     password="mysql1234",
+
     database="node-app"
     )
 # alter table products
